@@ -15,6 +15,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilsafarov&show_icons=true&locale=en&layout=compact" alt="aqilsafarov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqilsafarov&show_icons=true&locale=en" alt="aqilsafarov" /></p>
+
 
 
