@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aqil</h1>
 <h3 align="center">I am a passionate full stack developer and cyber security specialist from Azerbaijan</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilsafarov&label=Profile%20views&color=0e75b6&style=flat" alt="aqilsafarov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
