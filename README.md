@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full stack developer and cyber security specialist from Azerbaijan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
-<p align="left"> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilsafarov&show_icons=true&locale=en&layout=compact" alt="aqilsafarov" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
