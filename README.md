@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqil</h1>
-<h3 align="center">I am a passionate full stack developer and cyber security specialist from Azerbaijan</h3>
+<h3 align="center">I am a passionate full stack developer and cyber security specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
 
 
