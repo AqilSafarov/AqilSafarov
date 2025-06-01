@@ -11,7 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Existing icons -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
@@ -57,8 +56,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-
-  <!-- Cybersecurity Tools -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali" width="40" height="40"/>
   </a>
