@@ -56,21 +56,13 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali" width="40" height="40"/>
-  </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burpsuite" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
   </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.offensive-security.com/wp-content/uploads/2021/10/metasploit-logo.svg" alt="metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
-  </a>
+
 </p>
 
 
