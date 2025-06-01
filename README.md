@@ -2,15 +2,31 @@
 <h3 align="center">I am a passionate full stack developer and cyber security specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Cybersecurity Tools -->
+  <a href="https://github.com/wradar" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/radar.png" alt="wradar" width="40" height="40"/>
+  </a>
+  <a href="https://cordex.com/xdr" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/security-configuration.png" alt="cordex-xdr" width="40" height="40"/>
+  </a>
+  <a href="https://cordstrike.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" alt="cordstrike" width="40" height="40"/>
+  </a>
+  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
+  </a>
+
+  <!-- Original Tools -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
@@ -56,13 +72,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
-  </a>
-
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilsafarov&show_icons=true&locale=en&layout=compact" alt="aqilsafarov" /></p>
-
-
